@@ -1,0 +1,14 @@
+const x= 10, y = 20;
+var temp, result, tre;
+procedure multiply;
+  var tre;
+  begin temp := x;
+    result := 0;
+    result:= result + y;
+  end;
+begin call multiply
+end
+  .
+     
+
+
